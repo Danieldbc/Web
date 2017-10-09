@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Web</string>
+    <string name="go">go</string>
+    <string name="type_URL">/type URL</string>
+</resources>
